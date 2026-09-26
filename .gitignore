@@ -1,0 +1,4 @@
+# Ignore large processed EEG data - available on OSF
+eeg_analysis/Data_Exp1/Preprocess/*.mat
+eeg_analysis/Data_Exp2/Preprocess/*.mat
+eeg_analysis/Data_Exp3/Preprocess/*.mat
