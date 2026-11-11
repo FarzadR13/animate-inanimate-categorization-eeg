@@ -52,3 +52,9 @@ Large files (e.g., raw continuous EEG recordings or large feature extraction `.m
 ## License and Citation
 If you use the data or code in this repository, please cite our paper:
 > Spriet, C., Rostami, F., Hochmann, J.-R., & Papeo, L. (2026). Animate-Inanimate Object Categorization from Minimal Visual Information in the Human Brain, Human Behavior, and Deep Neural Networks. *Journal of Cognitive Neuroscience*. https://doi.org/10.1162/jocn_a_02220
+>
+> ## Contact
+
+Farzad Rostami, Institut des Sciences Cognitives Marc Jeannerod, CNRS UMR5229, Lyon, France. For questions or data requests, please open an issue on this repository.
+
+* [Google Scholar Profile](https://scholar.google.com/citations?user=bSIiC50AAAAJ)
